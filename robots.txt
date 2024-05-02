@@ -1,0 +1,5 @@
+Sitemap: https://gammaparadigm.com.tw/sitemap.xml
+Sitemap: https://gammaparadigm.com.tw/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
